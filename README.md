@@ -9,10 +9,10 @@ In this project, we’ll  pick one of the Amazon review dataset and use PySpark 
 
 This will be achieved in two deliverables:
 
-+ Perform ETL on Amazon Product Reviews 
++ **Perform ETL on Amazon Product Reviews:** 
 In this deliverable, we’ll create an AWS RDS database with tables in pgAdmin, and extract the dataset into a DataFrame. We’ll then transform the DataFrame into four separate DataFrames that match the table schema in pgAdmin and then upload the transformed data into the appropriate tables and run queries in pgAdmin to confirm that the data has been uploaded.
 
-+ Determine Bias of Vine Reviews 
++ **Determine Bias of Vine Reviews:** 
 Using PySpark we’ll determine if there is any bias towards reviews that were written as part of the Vine program. For this analysis we’ll determine the total number of reviews, the number of 5-star reviews, and the percentage of 5-star reviews. This will enable us find out if having a paid Vine review makes a difference in the percentage of 5-star reviews.
 
 
