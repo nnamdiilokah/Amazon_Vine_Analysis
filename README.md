@@ -27,9 +27,14 @@ Using PySpark we’ll determine if there is any bias towards reviews that were w
 + 5-Star Non-Vine Reviews: 14,569
 
 **What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?**
-+ 5-Star Vine Reviews: 59.09&
++ 5-Star Vine Reviews: 59.09%
 + 5-Star Non-Vine Reviews: 52.57%
 
 
 ## Summary
+
+Based on the results of the analysis for the percentage of 5-star reviews from Vine and non-Vine reviews, it appears there is not a positivity bias in the vine program. Both review percentages range from 52% - 59% which are close in range.
+
+For better analysis, we recommend inclusion of other reviews from one star to five stars, instead of focusing on just five star reviews. This will give a better spread and distribution in understanding customer feedback.
+
 
